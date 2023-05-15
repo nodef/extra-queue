@@ -1,6 +1,6 @@
 {
   "name": "extra-queue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Collection of elements where insert, delete happens only at the ends.",
   "main": "index.js",
   "scripts": {
